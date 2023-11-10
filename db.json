@@ -1,7 +1,7 @@
 {
   "men": [
     {
-      "_pid": 1,
+      "id": 1,
       "category": "men",
       "subCate": "Trackpants",
       "name": "Men Black Trackpant",
@@ -18,7 +18,7 @@
       "review": 161
     },
     {
-      "_p_pid": 2,
+      "id": 2,
       "category": "men",
       "subCate": "Casual Shirts",
       "name": "Premium Black and White Slim Fit Tie Dye Rayon Shirt",
@@ -34,7 +34,7 @@
       "review": 78
     },
     {
-      "_p_pid": 3,
+      "id": 3,
       "category": "men",
       "subCate": "Jackets",
       "name": "Men Blue Shirt Collar Denim Jacket",
@@ -51,7 +51,7 @@
       "review": 196
     },
     {
-      "_p_pid": 4,
+      "id": 4,
       "category": "men",
       "subCate": "Tank Tops",
       "name": "Men Grey Printed Crew Neck Tank Top",
@@ -68,7 +68,7 @@
       "review": 302
     },
     {
-      "_p_pid": 5,
+      "id": 5,
       "category": "men",
       "subCate": "Trackpants",
       "name": "Graphic Print Performance Polyester Joggers",
@@ -85,7 +85,7 @@
       "review": 239
     },
     {
-      "_p_pid": 6,
+      "id": 6,
       "category": "men",
       "subCate": "T-Shirts",
       "name": "Young Men Mickey & Friends Tie & Dye Blue T-Shirt",
@@ -102,7 +102,7 @@
       "review": 323
     },
     {
-      "_p_pid": 7,
+      "id": 7,
       "category": "men",
       "subCate": "Hoodies",
       "name": "Men Printed Grey Hoodie (Regular)",
@@ -119,7 +119,7 @@
       "review": 58
     },
     {
-      "_p_pid": 8,
+      "id": 8,
       "category": "men",
       "subCate": "Tank Tops",
       "name": "Mens Round Neck Sleeveless Tank T-Shirt",
@@ -136,7 +136,7 @@
       "review": 284
     },
     {
-      "_p_pid": 9,
+      "id": 9,
       "category": "men",
       "subCate": "Hoodies",
       "name": "Men Green Hoodie",
@@ -153,7 +153,7 @@
       "review": 200
     },
     {
-      "_p_pid": 10,
+      "id": 10,
       "category": "men",
       "subCate": "T-Shirts",
       "name": "Men Teal Henley Neck Full Sleeves Waffle Knit T-Shirt",
@@ -170,10 +170,10 @@
       "review": 104
     },
     {
-      "_p_pid": 11,
+      "id": 11,
       "category": "men",
       "subCate": "Co-Ord Set",
-      "name": "Ardor Edition Men Pink Ac_p_pid Wash Slim Fit Cotton Casual Tracksuit",
+      "name": "Ardor Edition Men Pink Acid Wash Slim Fit Cotton Casual Tracksuit",
       "brand": "The Bear House",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/0/tr:w-480,/f0926b2NK_THEBW00009956_1.jpg?rnd=20200526195200",
       "images": [
@@ -187,10 +187,10 @@
       "review": 201
     },
     {
-      "_p_pid": 12,
+      "id": 12,
       "category": "men",
       "subCate": "Trackpants",
-      "name": "Men Sol_p_pid Stylish Active And Sports Trackpant",
+      "name": "Men Solid Stylish Active And Sports Trackpant",
       "brand": "Campus Sutra",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/e/tr:w-480,/eede123SUM22-CSM-SS-JRTP0159_1.jpg?rnd=20200526195200",
       "images": [
@@ -204,7 +204,7 @@
       "review": 107
     },
     {
-      "_p_pid": 13,
+      "id": 13,
       "category": "men",
       "subCate": "Jeans",
       "name": "Men Jacksville Blue Jeans - Boot Cut",
@@ -221,10 +221,10 @@
       "review": 253
     },
     {
-      "_p_pid": 14,
+      "id": 14,
       "category": "men",
       "subCate": "Casual Shirts",
-      "name": "White Embro_p_pidery Cotton Shirt",
+      "name": "White Embroidery Cotton Shirt",
       "brand": "Hatheli",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/0/tr:w-480,/f009583342M-SHWH_1.jpg?rnd=20200526195200",
       "images": [
@@ -238,7 +238,7 @@
       "review": 120
     },
     {
-      "_p_pid": 15,
+      "id": 15,
       "category": "men",
       "subCate": "T-Shirts",
       "name": "Mens Cotton Straight Collar Color Block T-Shirt-Multi-Color",
@@ -255,10 +255,10 @@
       "review": 228
     },
     {
-      "_p_pid": 16,
+      "id": 16,
       "category": "men",
       "subCate": "Hoodies",
-      "name": "Men Black Sol_p_pid Sweatshirt",
+      "name": "Men Black Solid Sweatshirt",
       "brand": "Alcis",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/9/tr:w-480,/d9ebb1b158MSS241_1.jpg?rnd=20200526195200",
       "images": [
@@ -272,7 +272,7 @@
       "review": 225
     },
     {
-      "_p_pid": 17,
+      "id": 17,
       "category": "men",
       "subCate": "Tank Tops",
       "name": "Mens Tank Top-Ss Pink",
@@ -289,10 +289,10 @@
       "review": 307
     },
     {
-      "_p_pid": 18,
+      "id": 18,
       "category": "men",
       "subCate": "Hoodies",
-      "name": "Men Olive Sol_p_pid Hoodies",
+      "name": "Men Olive Solid Hoodies",
       "brand": "LINDBERGH",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/c/tr:w-480,/1c3743d30-705117DA_1.jpg?rnd=20200526195200",
       "images": [
@@ -306,7 +306,7 @@
       "review": 141
     },
     {
-      "_p_pid": 19,
+      "id": 19,
       "category": "men",
       "subCate": "Jackets",
       "name": "Mens Black Color Polyester Vest Jacket",
@@ -323,10 +323,10 @@
       "review": 94
     },
     {
-      "_p_pid": 20,
+      "id": 20,
       "category": "men",
       "subCate": "Cargos",
-      "name": "Men Beige Elasticized Waist Sol_p_pid Joggers",
+      "name": "Men Beige Elasticized Waist Solid Joggers",
       "brand": "Aeropostale",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/e/tr:w-480,/ae1017005292_1_d3887761.jpg?rnd=20200526195200",
       "images": [
@@ -340,7 +340,7 @@
       "review": 232
     },
     {
-      "_p_pid": 21,
+      "id": 21,
       "category": "men",
       "subCate": "Cargos",
       "name": "Slim Fit Cargo Pants Black",
@@ -357,7 +357,7 @@
       "review": 214
     },
     {
-      "_p_pid": 22,
+      "id": 22,
       "category": "men",
       "subCate": "Co-Ord Set",
       "name": "Ardor Edition Men Black Printed Slim Fit Cotton Casual Tracksuit (Set of 2)",
@@ -374,7 +374,7 @@
       "review": 325
     },
     {
-      "_p_pid": 23,
+      "id": 23,
       "category": "men",
       "subCate": "T-Shirts",
       "name": "Men Navy Blue Striped Round Neck T-shirt",
@@ -391,7 +391,7 @@
       "review": 115
     },
     {
-      "_p_pid": 24,
+      "id": 24,
       "category": "men",
       "subCate": "Jeans",
       "name": "Dark Grey Low Rise Slim Fit Jeans for Men",
@@ -408,10 +408,10 @@
       "review": 243
     },
     {
-      "_p_pid": 25,
+      "id": 25,
       "category": "men",
       "subCate": "Jackets",
-      "name": "Men Black Sol_p_pid Casual Jacket",
+      "name": "Men Black Solid Casual Jacket",
       "brand": "Peter England",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/9/tr:w-480,/29b5a4cA-PJJKPTKHG50505_1.jpg?rnd=20200526195200",
       "images": [
@@ -425,7 +425,7 @@
       "review": 70
     },
     {
-      "_p_pid": 26,
+      "id": 26,
       "category": "men",
       "subCate": "Casual Shirts",
       "name": "Brown and Grey Slim Fit Premium Tie Dye Rayon Shirt",
@@ -441,7 +441,7 @@
       "review": 42
     },
     {
-      "_p_pid": 27,
+      "id": 27,
       "category": "men",
       "subCate": "T-Shirts",
       "name": "Game Over Minimal Half Sleeve T-Shirt Navy Blue",
@@ -458,7 +458,7 @@
       "review": 279
     },
     {
-      "_p_pid": 28,
+      "id": 28,
       "category": "men",
       "subCate": "Casual Shirts",
       "name": "Men Striped Casual Multicolor Shirt",
@@ -475,7 +475,7 @@
       "review": 275
     },
     {
-      "_p_pid": 29,
+      "id": 29,
       "category": "men",
       "subCate": "Cargos",
       "name": "Camouflage Multi Color Cargos",
@@ -492,10 +492,10 @@
       "review": 214
     },
     {
-      "_p_pid": 30,
+      "id": 30,
       "category": "men",
       "subCate": "Tank Tops",
-      "name": "Men's Pink Sol_p_pid Tank Top",
+      "name": "Men's Pink Solid Tank Top",
       "brand": "DILLINGER",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/i/tr:w-480,/dillinger-dltt001wrs_1_6879e1dc.jpg?rnd=20200526195200",
       "images": [
@@ -509,10 +509,10 @@
       "review": 273
     },
     {
-      "_p_pid": 31,
+      "id": 31,
       "category": "men",
       "subCate": "Jeans",
-      "name": "Men Blue M_p_pid Rise Stone Wash Jeans",
+      "name": "Men Blue Mid Rise Stone Wash Jeans",
       "brand": "U.S. POLO ASSN.",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/u/d/tr:w-480,/udjeno0111_1_98c6c636.jpg?rnd=20200526195200",
       "images": [
@@ -526,7 +526,7 @@
       "review": 79
     },
     {
-      "_p_pid": 32,
+      "id": 32,
       "category": "men",
       "subCate": "Co-Ord Set",
       "name": "Zahra Co-Ord (Set of 2)",
@@ -543,7 +543,7 @@
       "review": 235
     },
     {
-      "_p_pid": 33,
+      "id": 33,
       "category": "men",
       "subCate": "Trackpants",
       "name": "Titan Blue Track Pant",
@@ -560,10 +560,10 @@
       "review": 257
     },
     {
-      "_p_pid": 34,
+      "id": 34,
       "category": "men",
       "subCate": "Hoodies",
-      "name": "Men Black Coloured Sol_p_pid Hoodie",
+      "name": "Men Black Coloured Solid Hoodie",
       "brand": "Free Authority",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/a/f/afa9fafMens-STY-Blank67-B_3.jpg?rnd=20200526195200",
       "images": [
@@ -577,7 +577,7 @@
       "review": 316
     },
     {
-      "_p_pid": 35,
+      "id": 35,
       "category": "men",
       "subCate": "Joggers",
       "name": "Van Heusen Men Athleisure Joggers",
@@ -594,7 +594,7 @@
       "review": 53
     },
     {
-      "_p_pid": 36,
+      "id": 36,
       "category": "men",
       "subCate": "Co-Ord Set",
       "name": "Tonal Blue Printed (Set of 2)",
@@ -611,7 +611,7 @@
       "review": 260
     },
     {
-      "_p_pid": 37,
+      "id": 37,
       "category": "men",
       "subCate": "Co-Ord Set",
       "name": "Big Blue Bomber Jacket (Set of 2)",
@@ -627,10 +627,10 @@
       "review": 111
     },
     {
-      "_p_pid": 38,
+      "id": 38,
       "category": "men",
       "subCate": "Casual Shirts",
-      "name": "Indigo Saga Cotton Flex White Sol_p_pid Full Sleeves Shirt With Doll",
+      "name": "Indigo Saga Cotton Flex White Solid Full Sleeves Shirt With Doll",
       "brand": "Likha by Nykaa Fashion",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/1/tr:w-480,/f16d918NYKF_LIKAA00002067_1.jpg?rnd=20200526195200",
       "images": [
@@ -644,10 +644,10 @@
       "review": 287
     },
     {
-      "_p_pid": 39,
+      "id": 39,
       "category": "men",
       "subCate": "Trackpants",
-      "name": "Ardor Edition Men White Sol_p_pid Slim Fit Track Pants",
+      "name": "Ardor Edition Men White Solid Slim Fit Track Pants",
       "brand": "The Bear House",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/8/8/tr:w-480,/882d5c4TBH-METRIC-WH_1.jpg?rnd=20200526195200",
       "images": [
@@ -661,10 +661,10 @@
       "review": 64
     },
     {
-      "_p_pid": 40,
+      "id": 40,
       "category": "men",
       "subCate": "Jackets",
-      "name": "Men's Brown Sol_p_pid Geniune Leather Jacket",
+      "name": "Men's Brown Solid Geniune Leather Jacket",
       "brand": "Teakwood",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/1/tr:w-480,/a1777c6JKT_1008_TEAKWOOD_1.jpg?rnd=20200526195200",
       "images": [
@@ -678,10 +678,10 @@
       "review": 167
     },
     {
-      "_p_pid": 41,
+      "id": 41,
       "category": "men",
       "subCate": "Jeans",
-      "name": "Men Black Sol_p_pid Skinny Fit Jeans",
+      "name": "Men Black Solid Skinny Fit Jeans",
       "brand": "United Colors of Benetton",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/1/tr:w-480,/d11bd2f22A4L23R7090I901_1.jpg?rnd=20200526195200",
       "images": [
@@ -695,7 +695,7 @@
       "review": 112
     },
     {
-      "_p_pid": 42,
+      "id": 42,
       "category": "men",
       "subCate": "Tank Tops",
       "name": "Black Print Tank Top",
@@ -712,7 +712,7 @@
       "review": 102
     },
     {
-      "_p_pid": 43,
+      "id": 43,
       "category": "men",
       "subCate": "Jeans",
       "name": "Men Slim Fit Jeans",
@@ -729,7 +729,7 @@
       "review": 338
     },
     {
-      "_p_pid": 44,
+      "id": 44,
       "category": "men",
       "subCate": "Cargos",
       "name": "Men Cargo Non Denim Chinos",
@@ -746,10 +746,10 @@
       "review": 41
     },
     {
-      "_p_pid": 45,
+      "id": 45,
       "category": "men",
       "subCate": "Jackets",
-      "name": "Men Sol_p_pid Brown Cotton Regular Jacket",
+      "name": "Men Solid Brown Cotton Regular Jacket",
       "brand": "CELIO",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/8/a/tr:w-480,/8a28fa1CUNEWJOE_CAMEL_1.jpg?rnd=20200526195200",
       "images": [
@@ -763,10 +763,10 @@
       "review": 254
     },
     {
-      "_p_pid": 46,
+      "id": 46,
       "category": "men",
       "subCate": "Joggers",
-      "name": "Men Black Sol_p_pid Slim Fit Joggers",
+      "name": "Men Black Solid Slim Fit Joggers",
       "brand": "Tom Burg",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/f/tr:w-480,/9f9dcd8TP01B_1.jpg?rnd=20200526195200",
       "images": [
@@ -780,10 +780,10 @@
       "review": 106
     },
     {
-      "_p_pid": 47,
+      "id": 47,
       "category": "men",
       "subCate": "Joggers",
-      "name": "Sol_p_pids Azure Blue Denim Joggerss For Mens",
+      "name": "Solids Azure Blue Denim Joggerss For Mens",
       "brand": "The Souled Store",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/e/tr:w-480,/eef3fbeTSS-176706_1.jpg?rnd=20200526195200",
       "images": [
@@ -797,10 +797,10 @@
       "review": 197
     },
     {
-      "_p_pid": 48,
+      "id": 48,
       "category": "men",
       "subCate": "Joggers",
-      "name": "Mens Black Pure Cotton Sol_p_pid Joggers",
+      "name": "Mens Black Pure Cotton Solid Joggers",
       "brand": "Sapper",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/b/a/tr:w-480,/ba9c148MTJ118BLACK_1.jpg?rnd=20200526195200",
       "images": [
@@ -814,7 +814,7 @@
       "review": 308
     },
     {
-      "_p_pid": 49,
+      "id": 49,
       "category": "men",
       "subCate": "Joggers",
       "name": "Black Pocket Printed Oversize Cargo Jogger",
@@ -830,7 +830,7 @@
       "review": 287
     },
     {
-      "_p_pid": 50,
+      "id": 50,
       "category": "men",
       "subCate": "Cargos",
       "name": "Men Stone Linen Mix Cargo Trousers",
@@ -846,7 +846,7 @@
       "review": 272
     },
     {
-      "_p_pid": 51,
+      "id": 51,
       "category": "men",
       "subCate": "Co-Ord Set",
       "name": "Navy Blue Linen Co-ord (Set of 2)",
@@ -865,7 +865,7 @@
   ],
   "women": [
     {
-      "_p_pid": 1,
+      "id": 1,
       "category": "women",
       "subCate": "Kaftans",
       "name": "Peach Geometric Printed Georgette Kaftan",
@@ -882,10 +882,10 @@
       "review": 135
     },
     {
-      "_p_pid": 2,
+      "id": 2,
       "category": "women",
       "subCate": "Palazzos",
-      "name": "Hand Embro_p_pidered White Cotton Palazzo",
+      "name": "Hand Embroidered White Cotton Palazzo",
       "brand": "ADA",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/tr:w-480,/ada_a100207_1.jpg?rnd=20200526195200",
       "images": [
@@ -899,7 +899,7 @@
       "review": 47
     },
     {
-      "_p_pid": 3,
+      "id": 3,
       "category": "women",
       "subCate": "Sarees",
       "name": "Black Georgette Stones Party Wear Saree",
@@ -916,10 +916,10 @@
       "review": 44
     },
     {
-      "_p_pid": 4,
+      "id": 4,
       "category": "women",
       "subCate": "Gowns",
-      "name": "Orange Floral Smocked Tired M_p_pidi Dress",
+      "name": "Orange Floral Smocked Tired Midi Dress",
       "brand": "Femella",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/b/tr:w-480,/0be0b99FF-4185-ORG_1.jpg?rnd=20200526195200",
       "images": [
@@ -933,7 +933,7 @@
       "review": 95
     },
     {
-      "_p_pid": 5,
+      "id": 5,
       "category": "women",
       "subCate": "Dresses",
       "name": "Slime Green Backless Dress",
@@ -950,7 +950,7 @@
       "review": 333
     },
     {
-      "_p_pid": 6,
+      "id": 6,
       "category": "women",
       "subCate": "Lahengas",
       "name": "Vriska Green Skirt with Jacket",
@@ -967,10 +967,10 @@
       "review": 275
     },
     {
-      "_p_pid": 7,
+      "id": 7,
       "category": "women",
       "subCate": "Jackets and Coats",
-      "name": "Women Black Sol_p_pid Blazer",
+      "name": "Women Black Solid Blazer",
       "brand": "Pannkh",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/0/tr:w-480,/2014blacka-1_f34137ae.jpg?rnd=20200526195200",
       "images": [
@@ -984,7 +984,7 @@
       "review": 311
     },
     {
-      "_p_pid": 8,
+      "id": 8,
       "category": "women",
       "subCate": "Tops",
       "name": "Wine Crepe Blouson Top",
@@ -1001,7 +1001,7 @@
       "review": 134
     },
     {
-      "_p_pid": 9,
+      "id": 9,
       "category": "women",
       "subCate": "Gowns",
       "name": "Red Floral Printed Maxi Dress",
@@ -1018,7 +1018,7 @@
       "review": 266
     },
     {
-      "_p_pid": 10,
+      "id": 10,
       "category": "women",
       "subCate": "Kaftans",
       "name": "Wisteria Peach Tie Dye Kaftan",
@@ -1035,7 +1035,7 @@
       "review": 340
     },
     {
-      "_p_pid": 11,
+      "id": 11,
       "category": "women",
       "subCate": "Kaftans",
       "name": "Red Leheriya Kaftan Dress",
@@ -1052,7 +1052,7 @@
       "review": 53
     },
     {
-      "_p_pid": 12,
+      "id": 12,
       "category": "women",
       "subCate": "Sarees",
       "name": "Black Georgette Saree with Stitched Blouse With Belt",
@@ -1069,10 +1069,10 @@
       "review": 139
     },
     {
-      "_p_pid": 13,
+      "id": 13,
       "category": "women",
       "subCate": "Sweatshirts & Hoodies",
-      "name": "Women Navy Blue Sol_p_pid Sweatshirt",
+      "name": "Women Navy Blue Solid Sweatshirt",
       "brand": "Alcis",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/b/tr:w-480,/2b5e2fbECJBWSS0013_1.jpg?rnd=20200526195200",
       "images": [
@@ -1086,7 +1086,7 @@
       "review": 251
     },
     {
-      "_p_pid": 14,
+      "id": 14,
       "category": "women",
       "subCate": "Palazzos",
       "name": "Olive Palazzo",
@@ -1103,7 +1103,7 @@
       "review": 174
     },
     {
-      "_p_pid": 15,
+      "id": 15,
       "category": "women",
       "subCate": "T-shirts",
       "name": "Pastel Green Graphic Oversized T-Shirt",
@@ -1120,7 +1120,7 @@
       "review": 240
     },
     {
-      "_p_pid": 16,
+      "id": 16,
       "category": "women",
       "subCate": "T-shirts",
       "name": "Womens Graphic Drop Shoulder V-Neck T-Shirt",
@@ -1137,7 +1137,7 @@
       "review": 117
     },
     {
-      "_p_pid": 17,
+      "id": 17,
       "category": "women",
       "subCate": "Lahengas",
       "name": "Stylish Deep Pink Silk Semi Stitched Lehenga",
@@ -1153,7 +1153,7 @@
       "review": 341
     },
     {
-      "_p_pid": 18,
+      "id": 18,
       "category": "women",
       "subCate": "Sweatshirts & Hoodies",
       "name": "Shadow Grey Stripe Oversized Hoodie",
@@ -1170,10 +1170,10 @@
       "review": 288
     },
     {
-      "_p_pid": 19,
+      "id": 19,
       "category": "women",
       "subCate": "Jackets and Coats",
-      "name": "Black Sol_p_pid Formal Sol_p_pid Blazer",
+      "name": "Black Solid Formal Solid Blazer",
       "brand": "FableStreet",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/8/b/tr:w-480,/8bb1125NYK_FBS0635_1.jpg?rnd=20200526195200",
       "images": [
@@ -1187,7 +1187,7 @@
       "review": 34
     },
     {
-      "_p_pid": 20,
+      "id": 20,
       "category": "women",
       "subCate": "Kaftans",
       "name": "Green Georgette Festive Bandhej Kaftan",
@@ -1204,7 +1204,7 @@
       "review": 80
     },
     {
-      "_p_pid": 21,
+      "id": 21,
       "category": "women",
       "subCate": "Tops",
       "name": "Striped Asymmetric Top",
@@ -1221,7 +1221,7 @@
       "review": 144
     },
     {
-      "_p_pid": 22,
+      "id": 22,
       "category": "women",
       "subCate": "Lahengas",
       "name": "Pink & Blue Soft Net Semi Stitched Lehenga",
@@ -1237,10 +1237,10 @@
       "review": 124
     },
     {
-      "_p_pid": 23,
+      "id": 23,
       "category": "women",
       "subCate": "Jackets and Coats",
-      "name": "Women Sol_p_pid Black Cotton Casual Shrug",
+      "name": "Women Solid Black Cotton Casual Shrug",
       "brand": "Style Quotient",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/s/s/tr:w-480,/ss19sqlex_eu_1_951dd266.jpg?rnd=20200526195200",
       "images": [
@@ -1254,7 +1254,7 @@
       "review": 240
     },
     {
-      "_p_pid": 24,
+      "id": 24,
       "category": "women",
       "subCate": "Sweatshirts & Hoodies",
       "name": "Versertaile Bright Jacket",
@@ -1271,7 +1271,7 @@
       "review": 99
     },
     {
-      "_p_pid": 25,
+      "id": 25,
       "category": "women",
       "subCate": "T-shirts",
       "name": "Women Lavender Round Neck Half Sleeve T-Shirt",
@@ -1288,10 +1288,10 @@
       "review": 300
     },
     {
-      "_p_pid": 26,
+      "id": 26,
       "category": "women",
       "subCate": "Dresses",
-      "name": "Women Sol_p_pid Purple Dress",
+      "name": "Women Solid Purple Dress",
       "brand": "VERO MODA",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/7/tr:w-480,/d71eee0NYK_VEROM00028001_1.jpg?rnd=20200526195200",
       "images": [
@@ -1305,7 +1305,7 @@
       "review": 284
     },
     {
-      "_p_pid": 27,
+      "id": 27,
       "category": "women",
       "subCate": "Dresses",
       "name": "Red Floral Printed Maxi Dress",
@@ -1322,7 +1322,7 @@
       "review": 57
     },
     {
-      "_p_pid": 28,
+      "id": 28,
       "category": "women",
       "subCate": "Sarees",
       "name": "Pink Patola Leheriya Saree with Unstitched",
@@ -1338,10 +1338,10 @@
       "review": 82
     },
     {
-      "_p_pid": 29,
+      "id": 29,
       "category": "women",
       "subCate": "Gowns",
-      "name": "Magenta Cotton Balloon Sleeve M_p_pidi Dress",
+      "name": "Magenta Cotton Balloon Sleeve Midi Dress",
       "brand": "Swish Boss",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/e/tr:w-480,/de44efbZSWISH00000530_1.jpg?rnd=20200526195200",
       "images": [
@@ -1355,7 +1355,7 @@
       "review": 237
     },
     {
-      "_p_pid": 30,
+      "id": 30,
       "category": "women",
       "subCate": "Gowns",
       "name": "Slime Green Backless Dress",
@@ -1372,7 +1372,7 @@
       "review": 244
     },
     {
-      "_p_pid": 31,
+      "id": 31,
       "category": "women",
       "subCate": "Sarees",
       "name": "Chirpy Birds Beige Black and Yellow Half Saree",
@@ -1389,7 +1389,7 @@
       "review": 277
     },
     {
-      "_p_pid": 32,
+      "id": 32,
       "category": "women",
       "subCate": "Sweatshirts & Hoodies",
       "name": "Vivir Chocolate Stripe Hoodie",
@@ -1406,7 +1406,7 @@
       "review": 143
     },
     {
-      "_p_pid": 33,
+      "id": 33,
       "category": "women",
       "subCate": "Dresses",
       "name": "Sunshine Multi-Color One Shoulder Dress (XS)",
@@ -1423,7 +1423,7 @@
       "review": 124
     },
     {
-      "_p_pid": 34,
+      "id": 34,
       "category": "women",
       "subCate": "Tops",
       "name": "Womens Tie Knot Long Sleeve Top",
@@ -1440,7 +1440,7 @@
       "review": 117
     },
     {
-      "_p_pid": 35,
+      "id": 35,
       "category": "women",
       "subCate": "Gowns",
       "name": "Aden Chiffon Long Dress",
@@ -1457,7 +1457,7 @@
       "review": 220
     },
     {
-      "_p_pid": 36,
+      "id": 36,
       "category": "women",
       "subCate": "Sarees",
       "name": "Peacock Blue Swarovski Georgette Saree",
@@ -1474,7 +1474,7 @@
       "review": 209
     },
     {
-      "_p_pid": 37,
+      "id": 37,
       "category": "women",
       "subCate": "Jackets and Coats",
       "name": "Sweet Green Regular Tailored Button Blazer",
@@ -1491,11 +1491,11 @@
       "review": 176
     },
     {
-      "_p_pid": 38,
+      "id": 38,
       "category": "women",
       "subCate": "Sweatshirts & Hoodies",
       "name": "Black Casual Women Sweatshirt",
-      "brand": "Ad_p_pidas Originals",
+      "brand": "Adidas Originals",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/c/tr:w-480,/1c93afdIB7396_1.jpg?rnd=20200526195200",
       "images": [
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/1/c/1c93afdIB7396_2.jpg?rnd=20200526195200",
@@ -1508,7 +1508,7 @@
       "review": 277
     },
     {
-      "_p_pid": 39,
+      "id": 39,
       "category": "women",
       "subCate": "Lahengas",
       "name": "Black Georgette Semi-Stitched Lehenga with Dupatta",
@@ -1525,10 +1525,10 @@
       "review": 329
     },
     {
-      "_p_pid": 40,
+      "id": 40,
       "category": "women",
       "subCate": "Palazzos",
-      "name": "Black Sol_p_pid Flared Palazzo",
+      "name": "Black Solid Flared Palazzo",
       "brand": "W",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/w/_/tr:w-480,/w_8907819931575_1.jpg?rnd=20200526195200",
       "images": [
@@ -1542,7 +1542,7 @@
       "review": 174
     },
     {
-      "_p_pid": 41,
+      "id": 41,
       "category": "women",
       "subCate": "Kaftans",
       "name": "Rust & Black Printed Kaftans",
@@ -1559,7 +1559,7 @@
       "review": 84
     },
     {
-      "_p_pid": 42,
+      "id": 42,
       "category": "women",
       "subCate": "Tops",
       "name": "Off White Balloon Sleeve Top",
@@ -1576,7 +1576,7 @@
       "review": 104
     },
     {
-      "_p_pid": 43,
+      "id": 43,
       "category": "women",
       "subCate": "Lahengas",
       "name": "Maroon and Rust Polka and Jaal Festive Lehenga",
@@ -1593,7 +1593,7 @@
       "review": 97
     },
     {
-      "_p_pid": 44,
+      "id": 44,
       "category": "women",
       "subCate": "Tops",
       "name": "Black Front Slit Maxi Top",
@@ -1610,7 +1610,7 @@
       "review": 71
     },
     {
-      "_p_pid": 45,
+      "id": 45,
       "category": "women",
       "subCate": "Dresses",
       "name": "Ruched Back Tie Dress Beige & Brown",
@@ -1627,7 +1627,7 @@
       "review": 153
     },
     {
-      "_p_pid": 46,
+      "id": 46,
       "category": "women",
       "subCate": "T-shirts",
       "name": "Women Round Neck Short Sleeves T-Shirt",
@@ -1644,7 +1644,7 @@
       "review": 220
     },
     {
-      "_p_pid": 47,
+      "id": 47,
       "category": "women",
       "subCate": "Palazzos",
       "name": "Yellow & Grey Marble Printed Palazzo",
@@ -1661,7 +1661,7 @@
       "review": 118
     },
     {
-      "_p_pid": 48,
+      "id": 48,
       "category": "women",
       "subCate": "T-shirts",
       "name": "Magenta Graphic Pure Cotton Womens TandShirt",
@@ -1678,10 +1678,10 @@
       "review": 41
     },
     {
-      "_p_pid": 49,
+      "id": 49,
       "category": "women",
       "subCate": "Jackets and Coats",
-      "name": "Women Sol_p_pid Black Jacket",
+      "name": "Women Solid Black Jacket",
       "brand": "VERO MODA",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/3/tr:w-480,/d3caee0NYK_VEROM00025514_1.jpg?rnd=20200526195200",
       "images": [
@@ -1695,7 +1695,7 @@
       "review": 118
     },
     {
-      "_p_pid": 50,
+      "id": 50,
       "category": "women",
       "subCate": "Palazzos",
       "name": "Indigo Cotton Printed Flared Palazzo",
@@ -1712,13 +1712,13 @@
       "review": 181
     }
   ],
-  "k_p_pids": [
+  "kids": [
     {
-      "_p_pid": 1,
-      "category": "k_p_pids",
+      "id": 1,
+      "category": "kids",
       "subCate": "Blazers",
       "name": "Brown Checks Jacket",
-      "brand": "One Fr_p_piday",
+      "brand": "One Friday",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/f/tr:w-480,/9fe5a1aG-AW-804_1.jpg?rnd=20200526195200",
       "images": [
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/9/f/9fe5a1aG-AW-804_2.jpg?rnd=20200526195200",
@@ -1731,8 +1731,8 @@
       "review": 289
     },
     {
-      "_p_pid": 2,
-      "category": "k_p_pids",
+      "id": 2,
+      "category": "kids",
       "subCate": "Sets",
       "name": "Butterfly Print Top and Skirt (Set of 2)",
       "brand": "PSPeaches",
@@ -1748,10 +1748,10 @@
       "review": 109
     },
     {
-      "category": "k_p_pids",
+      "category": "kids",
       "subCate": "Ethnic Jackets",
-      "brand": "AKS K_p_pids",
-      "name": "Green Embro_p_pidered Nehru Jacket",
+      "brand": "AKS Kids",
+      "name": "Green Embroidered Nehru Jacket",
       "newPrice": 880,
       "oldPrice": 2199,
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/e/tr:w-480,/2e66f53KI0462_1.jpg?rnd=20200526195200",
@@ -1760,12 +1760,12 @@
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/2/e/2e66f53KI0462_5.jpg?rnd=20200526195200",
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/2/e/2e66f53KI0462_2.jpg?rnd=20200526195200"
       ],
-      "_p_pid": 3,
+      "id": 3,
       "rating": 2.5,
       "review": 253
     },
     {
-      "category": "k_p_pids",
+      "category": "kids",
       "subCate": "Bottoms",
       "brand": "De Moza",
       "name": "Girls Ankle Length Leggings All Over Print Cotton Orange",
@@ -1777,12 +1777,12 @@
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/6/1/61079b3KGLGALAODG4004050_3.jpg?rnd=20200526195200",
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/6/1/61079b3KGLGALAODG4004050_2.jpg?rnd=20200526195200"
       ],
-      "_p_pid": 4,
+      "id": 4,
       "rating": 3.6,
       "review": 309
     },
     {
-      "category": "k_p_pids",
+      "category": "kids",
       "subCate": "Hoodies",
       "brand": "The Souled Store",
       "name": "Iron Man Zip Cotton Boys Hoodie",
@@ -1794,15 +1794,15 @@
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/8/4/84b5cc5NF_THECB00019906_4.jpg?rnd=20200526195200",
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/8/4/84b5cc5NF_THECB00019906_2.jpg?rnd=20200526195200"
       ],
-      "_p_pid": 5,
+      "id": 5,
       "rating": 2.8,
       "review": 115
     },
     {
-      "_p_pid": 6,
-      "category": "k_p_pids",
+      "id": 6,
+      "category": "kids",
       "subCate": "Sets",
-      "name": "Black Sol_p_pid Top With Pants (Set of 2)",
+      "name": "Black Solid Top With Pants (Set of 2)",
       "brand": "PICCOLO",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/p/d/tr:w-480,/pd-41-1.jpg?rnd=20200526195200",
       "images": [
@@ -1816,10 +1816,10 @@
       "review": 280
     },
     {
-      "_p_pid": 7,
-      "category": "k_p_pids",
+      "id": 7,
+      "category": "kids",
       "subCate": "T-Shirts",
-      "name": "K_p_pid Boys Cash Sol_p_pid Boys Blue T-shirt",
+      "name": "Kid Boys Cash Solid Boys Blue T-shirt",
       "brand": "ANGEL & ROCKET",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/f/tr:w-480,/ff04e87AR5574_1.jpg?rnd=20200526195200",
       "images": [
@@ -1833,11 +1833,11 @@
       "review": 314
     },
     {
-      "_p_pid": 8,
-      "category": "k_p_pids",
+      "id": 8,
+      "category": "kids",
       "subCate": "Blazers",
       "name": "Blue Avengers Blazer",
-      "brand": "One Fr_p_piday",
+      "brand": "One Friday",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/6/tr:w-480,/46d69a4B-SS-AVENGERS-014_1.jpg?rnd=20200526195200",
       "images": [
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/4/6/46d69a4B-SS-AVENGERS-014_2.jpg?rnd=20200526195200",
@@ -1850,7 +1850,7 @@
       "review": 108
     },
     {
-      "category": "k_p_pids",
+      "category": "kids",
       "subCate": "Ethnic Jackets",
       "brand": "BownBee",
       "name": "Girls Cotton Reversible Winter Jacket",
@@ -1862,12 +1862,12 @@
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/6/d/6da8718BW22JK10BLA_5.jpg?rnd=20200526195200",
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/6/d/6da8718BW22JK10BLA_4.jpg?rnd=20200526195200"
       ],
-      "_p_pid": 9,
+      "id": 9,
       "rating": 4.1,
       "review": 210
     },
     {
-      "category": "k_p_pids",
+      "category": "kids",
       "subCate": "Bottoms",
       "brand": "ANTHRILO",
       "name": "Striped Shorts Red/white",
@@ -1877,13 +1877,13 @@
       "images": [
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/a/5/a510933AN4069_2.jpg?rnd=20200526195200"
       ],
-      "_p_pid": 10,
+      "id": 10,
       "rating": 2.8,
       "review": 176
     },
     {
-      "_p_pid": 11,
-      "category": "k_p_pids",
+      "id": 11,
+      "category": "kids",
       "subCate": "Sets",
       "name": "Never Mind Printed Full Sleeve Top with Jogger (Set of 2)",
       "brand": "Lilpicks",
@@ -1899,8 +1899,8 @@
       "review": 48
     },
     {
-      "_p_pid": 12,
-      "category": "k_p_pids",
+      "id": 12,
+      "category": "kids",
       "subCate": "T-Shirts",
       "name": "Boys Yellow Logo Print Crew Neck T-shirt",
       "brand": "Jack & Jones Junior",
@@ -1916,9 +1916,9 @@
       "review": 75
     },
     {
-      "category": "k_p_pids",
+      "category": "kids",
       "subCate": "Bottoms",
-      "brand": "K_p_pidS ONLY",
+      "brand": "KIDS ONLY",
       "name": "Girls Beige Printed Jogger",
       "newPrice": 750,
       "oldPrice": 1499,
@@ -1928,15 +1928,15 @@
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/4/7/47bc2f5ONLY299440401_3.jpg?rnd=20200526195200",
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/4/7/47bc2f5ONLY299440401_2.jpg?rnd=20200526195200"
       ],
-      "_p_pid": 13,
+      "id": 13,
       "rating": 4.7,
       "review": 264
     },
     {
-      "category": "k_p_pids",
+      "category": "kids",
       "subCate": "Bottoms",
       "brand": "Red Tape",
-      "name": "Olive Sol_p_pid Cotton Spandex Boy Jogger",
+      "name": "Olive Solid Cotton Spandex Boy Jogger",
       "newPrice": 1049,
       "oldPrice": 3490,
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/3/6/tr:w-480,/36be3abBJO0076_1.jpg?rnd=20200526195200",
@@ -1945,14 +1945,14 @@
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/3/6/36be3abBJO0076_3.jpg?rnd=20200526195200",
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/3/6/36be3abBJO0076_2.jpg?rnd=20200526195200"
       ],
-      "_p_pid": 14,
+      "id": 14,
       "rating": 2.4,
       "review": 117
     },
     {
-      "category": "k_p_pids",
+      "category": "kids",
       "subCate": "Trackpants",
-      "name": "Boys Sol_p_pid Cotton Trackpant",
+      "name": "Boys Solid Cotton Trackpant",
       "brand": "Lil Tomatoes",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/9/tr:w-480,/994bef7GBL-W22-026_DBLUE_1.jpg?rnd=20200526195200",
       "images": [
@@ -1962,16 +1962,16 @@
       ],
       "newPrice": 420,
       "oldPrice": 1399,
-      "_p_pid": 15,
+      "id": 15,
       "rating": 4.3,
       "review": 136
     },
     {
-      "_p_pid": 16,
-      "category": "k_p_pids",
+      "id": 16,
+      "category": "kids",
       "subCate": "Blazers",
-      "name": "Pink Sol_p_pid Blazer",
-      "brand": "One Fr_p_piday",
+      "name": "Pink Solid Blazer",
+      "brand": "One Friday",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/2/tr:w-480,/d2c0a1aG-AW-709_1.jpg?rnd=20200526195200",
       "images": [
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/d/2/d2c0a1aG-AW-709_2.jpg?rnd=20200526195200",
@@ -1984,11 +1984,11 @@
       "review": 61
     },
     {
-      "_p_pid": 17,
-      "category": "k_p_pids",
+      "id": 17,
+      "category": "kids",
       "subCate": "Sets",
       "name": "Party Wear Suit with Bow-tie - Navy Blue (Set of 4)",
-      "brand": "K_p_pid1",
+      "brand": "KID1",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/b/2/tr:w-480,/b24d37eK21CSB171NB_1.jpg?rnd=20200526195200",
       "images": [
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/b/2/b24d37eK21CSB171NB_3.jpg?rnd=20200526195200",
@@ -2001,7 +2001,7 @@
       "review": 135
     },
     {
-      "category": "k_p_pids",
+      "category": "kids",
       "subCate": "Trackpants",
       "name": "Girls Trackpant",
       "brand": "Kate & Oscar",
@@ -2013,13 +2013,13 @@
       ],
       "newPrice": 1420,
       "oldPrice": 1799,
-      "_p_pid": 18,
+      "id": 18,
       "rating": 4.2,
       "review": 316
     },
     {
-      "_p_pid": 19,
-      "category": "k_p_pids",
+      "id": 19,
+      "category": "kids",
       "subCate": "Sets",
       "name": "Dino Print Boys Casual (Set of 2)",
       "brand": "The Mom Store",
@@ -2035,8 +2035,8 @@
       "review": 218
     },
     {
-      "_p_pid": 20,
-      "category": "k_p_pids",
+      "id": 20,
+      "category": "kids",
       "subCate": "T-Shirts",
       "name": "Boys Yellow Logo Print Crew Neck T-shirt",
       "brand": "Jack & Jones Junior",
@@ -2052,7 +2052,7 @@
       "review": 95
     },
     {
-      "category": "k_p_pids",
+      "category": "kids",
       "subCate": "Hoodies",
       "brand": "TeenTrums",
       "name": "Girls Crop Hoodie Olive",
@@ -2064,13 +2064,13 @@
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/6/1/6149d5bZTEEAB00001068_3.jpg?rnd=20200526195200",
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/6/1/6149d5bZTEEAB00001068_2.jpg?rnd=20200526195200"
       ],
-      "_p_pid": 21,
+      "id": 21,
       "rating": 4.6,
       "review": 259
     },
     {
-      "_p_pid": 22,
-      "category": "k_p_pids",
+      "id": 22,
+      "category": "kids",
       "subCate": "T-Shirts",
       "name": "Heart T-shirt Black",
       "brand": "ANTHRILO",
@@ -2084,8 +2084,8 @@
       "review": 106
     },
     {
-      "_p_pid": 23,
-      "category": "k_p_pids",
+      "id": 23,
+      "category": "kids",
       "subCate": "Blazers",
       "name": "Brown Plain Cord Blazer",
       "brand": "CHERRY CRUMBLE",
@@ -2101,7 +2101,7 @@
       "review": 272
     },
     {
-      "category": "k_p_pids",
+      "category": "kids",
       "subCate": "Hoodies",
       "brand": "Lil Tomatoes",
       "name": "Girls Printed Cotton Fleece Hoodies Purple",
@@ -2113,12 +2113,12 @@
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/9/4/941a9caGGSWT-W22-130_PURPLE_3.jpg?rnd=20200526195200",
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/9/4/941a9caGGSWT-W22-130_PURPLE_4.jpg?rnd=20200526195200"
       ],
-      "_p_pid": 24,
+      "id": 24,
       "rating": 2.1,
       "review": 237
     },
     {
-      "category": "k_p_pids",
+      "category": "kids",
       "subCate": "Trackpants",
       "name": "Boy Track Pants With Typographic Detailing",
       "brand": "CRIMSOUNE CLUB",
@@ -2130,12 +2130,12 @@
       ],
       "newPrice": 800,
       "oldPrice": 1599,
-      "_p_pid": 25,
+      "id": 25,
       "rating": 2.3,
       "review": 332
     },
     {
-      "category": "k_p_pids",
+      "category": "kids",
       "subCate": "Hoodies",
       "brand": "Lil Tomatoes",
       "name": "Girls Printed Cotton Fleece Sweatshirt Pink",
@@ -2147,13 +2147,13 @@
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/5/7/57e0d86GGSWT-W22-128_PINK_5.jpg?rnd=20200526195200",
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/5/7/57e0d86GGSWT-W22-128_PINK_2.jpg?rnd=20200526195200"
       ],
-      "_p_pid": 26,
+      "id": 26,
       "rating": 3.2,
       "review": 181
     },
     {
-      "_p_pid": 27,
-      "category": "k_p_pids",
+      "id": 27,
+      "category": "kids",
       "subCate": "Blazers",
       "name": "Finley Smart Blazer",
       "brand": "ANGEL & ROCKET",
@@ -2169,7 +2169,7 @@
       "review": 332
     },
     {
-      "category": "k_p_pids",
+      "category": "kids",
       "subCate": "Ethnic Jackets",
       "brand": "BownBee",
       "name": "Girls Cotton Reversible Winter Jacket",
@@ -2181,12 +2181,12 @@
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/e/2/e2a0718BW22JK10GYA_3.jpg?rnd=20200526195200",
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/e/2/e2a0718BW22JK10GYA_2.jpg?rnd=20200526195200"
       ],
-      "_p_pid": 28,
+      "id": 28,
       "rating": 4,
       "review": 33
     },
     {
-      "category": "k_p_pids",
+      "category": "kids",
       "subCate": "Trackpants",
       "name": "Girls Cotton Printed Straight Pant Pink",
       "brand": "De Moza",
@@ -2196,15 +2196,15 @@
       ],
       "newPrice": 425,
       "oldPrice": 849,
-      "_p_pid": 29,
+      "id": 29,
       "rating": 2.9,
       "review": 312
     },
     {
-      "category": "k_p_pids",
+      "category": "kids",
       "subCate": "Ethnic Jackets",
       "brand": "Littleens",
-      "name": "Olive Sage-green Embro_p_pidered Jacket For Boys",
+      "name": "Olive Sage-green Embroidered Jacket For Boys",
       "newPrice": 5000,
       "oldPrice": 5000,
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/b/tr:w-480,/eb7b9ffB016_3.jpg?rnd=20200526195200",
@@ -2213,14 +2213,14 @@
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/e/b/eb7b9ffB016_1.jpg?rnd=20200526195200",
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/e/b/eb7b9ffB016_5.jpg?rnd=20200526195200"
       ],
-      "_p_pid": 30,
+      "id": 30,
       "rating": 4.3,
       "review": 281
     },
     {
-      "category": "k_p_pids",
+      "category": "kids",
       "subCate": "Trackpants",
-      "name": "Girls Polyester Sol_p_pid Tregging Black",
+      "name": "Girls Polyester Solid Tregging Black",
       "brand": "De Moza",
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/0/tr:w-480,/f02bb03KGWBTGSOGC2015002_1.jpg?rnd=20200526195200",
       "images": [
@@ -2229,15 +2229,15 @@
       ],
       "newPrice": 892,
       "oldPrice": 1049,
-      "_p_pid": 31,
+      "id": 31,
       "rating": 4,
       "review": 324
     },
     {
-      "category": "k_p_pids",
+      "category": "kids",
       "subCate": "Bottoms",
       "brand": "PIPIN",
-      "name": "K_p_pids - Boys Jogger Knit Bottom Sol_p_pid Cotton Black",
+      "name": "Kids - Boys Jogger Knit Bottom Solid Cotton Black",
       "newPrice": 344,
       "oldPrice": 799,
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/9/tr:w-480,/2994227KBKBJOSOPB13084002_2.jpg?rnd=20200526195200",
@@ -2246,13 +2246,13 @@
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/2/9/2994227KBKBJOSOPB13084002_4.jpg?rnd=20200526195200",
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/2/9/2994227KBKBJOSOPB13084002_3.jpg?rnd=20200526195200"
       ],
-      "_p_pid": 32,
+      "id": 32,
       "rating": 2,
       "review": 120
     },
     {
-      "_p_pid": 33,
-      "category": "k_p_pids",
+      "id": 33,
+      "category": "kids",
       "subCate": "T-Shirts",
       "name": "Nail Paint T-shirt White",
       "brand": "ANTHRILO",
@@ -2266,22 +2266,22 @@
       "review": 268
     },
     {
-      "category": "k_p_pids",
+      "category": "kids",
       "subCate": "Ethnic Jackets",
       "brand": "Littleens",
-      "name": "Embro_p_pidered Organic Cotton Dobby Jacket",
+      "name": "Embroidered Organic Cotton Dobby Jacket",
       "newPrice": 4700,
       "oldPrice": 4700,
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/3/b/tr:w-480,/3b0d102NZ-B075_1.jpg?rnd=20200526195200",
       "images": [
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/3/b/3b0d102NZ-B075_2.jpg?rnd=20200526195200"
       ],
-      "_p_pid": 34,
+      "id": 34,
       "rating": 2.9,
       "review": 294
     },
     {
-      "category": "k_p_pids",
+      "category": "kids",
       "subCate": "Hoodies",
       "brand": "Lil Tomatoes",
       "name": "Boys Cotton Fleece Hoodies",
@@ -2293,7 +2293,7 @@
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/8/6/86ac9caGBSWT-W22-70_TEAL_4.jpg?rnd=20200526195200",
         "https://adn-static1.nykaa.com/nykdesignstudio-images/tr:w-160,/pub/media/catalog/product/8/6/86ac9caGBSWT-W22-70_TEAL_3.jpg?rnd=20200526195200"
       ],
-      "_p_pid": 35,
+      "id": 35,
       "rating": 4,
       "review": 34
     }
@@ -2301,7 +2301,7 @@
   "sneakers": [
     {
       "brand": "PUMA",
-      "name": "Ferrari Motorsport Race X-Ray K_p_pids Sneakers",
+      "name": "Ferrari Motorsport Race X-Ray Kids Sneakers",
       "newPrice": 3039,
       "oldPrice": 7999,
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/a/tr:w-480,/1aa11e1NJ_PUMAX00114571_1.jpg?rnd=20200526195200",
@@ -2312,7 +2312,7 @@
       ],
       "category": "sneakers",
       "subCate": "boys",
-      "_p_pid": 1,
+      "id": 1,
       "rating": 2.2,
       "review": 175
     },
@@ -2329,7 +2329,7 @@
       ],
       "category": "sneakers",
       "subCate": "girls",
-      "_p_pid": 2,
+      "id": 2,
       "rating": 3.1,
       "review": 152
     },
@@ -2346,7 +2346,7 @@
       ],
       "category": "sneakers",
       "subCate": "girls",
-      "_p_pid": 3,
+      "id": 3,
       "rating": 4.3,
       "review": 196
     },
@@ -2363,7 +2363,7 @@
       ],
       "category": "sneakers",
       "subCate": "women",
-      "_p_pid": 4,
+      "id": 4,
       "rating": 4,
       "review": 177
     },
@@ -2380,13 +2380,13 @@
       ],
       "category": "sneakers",
       "subCate": "girls",
-      "_p_pid": 5,
+      "id": 5,
       "rating": 4,
       "review": 264
     },
     {
       "brand": "Puma",
-      "name": "x one8 Virat Kohli Basket K_p_pid's White Sneakers",
+      "name": "x one8 Virat Kohli Basket Kid's White Sneakers",
       "newPrice": 2239,
       "oldPrice": 3999,
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/b/7/tr:w-480,/b78f1e1NJ_PMA13775_1.jpg?rnd=20200526195200",
@@ -2397,7 +2397,7 @@
       ],
       "category": "sneakers",
       "subCate": "boys",
-      "_p_pid": 6,
+      "id": 6,
       "rating": 2.6,
       "review": 101
     },
@@ -2414,7 +2414,7 @@
       ],
       "category": "sneakers",
       "subCate": "boys",
-      "_p_pid": 7,
+      "id": 7,
       "rating": 3.4,
       "review": 42
     },
@@ -2431,13 +2431,13 @@
       ],
       "category": "sneakers",
       "subCate": "men",
-      "_p_pid": 8,
+      "id": 8,
       "rating": 2.9,
       "review": 243
     },
     {
       "brand": "SOLETHREADS",
-      "name": "Rise Navy Sol_p_pid Men Sneakers",
+      "name": "Rise Navy Solid Men Sneakers",
       "newPrice": 1750,
       "oldPrice": 2499,
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/3/tr:w-480,/f346105RISE_NAVY_1.jpg?rnd=20200526195200",
@@ -2448,13 +2448,13 @@
       ],
       "category": "sneakers",
       "subCate": "men",
-      "_p_pid": 9,
+      "id": 9,
       "rating": 2.4,
       "review": 69
     },
     {
       "brand": "PUMA",
-      "name": "X Smiley World Future R_p_pider Infant Sneakers",
+      "name": "X Smiley World Future Rider Infant Sneakers",
       "newPrice": 1999,
       "oldPrice": 3999,
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/b/f/tr:w-480,/bfa51e1NJ_PUMAX00135727_1.jpg?rnd=20200526195200",
@@ -2465,7 +2465,7 @@
       ],
       "category": "sneakers",
       "subCate": "boys",
-      "_p_pid": 10,
+      "id": 10,
       "rating": 3.3,
       "review": 265
     },
@@ -2482,7 +2482,7 @@
       ],
       "category": "sneakers",
       "subCate": "men",
-      "_p_pid": 11,
+      "id": 11,
       "rating": 2,
       "review": 254
     },
@@ -2499,7 +2499,7 @@
       ],
       "category": "sneakers",
       "subCate": "women",
-      "_p_pid": 12,
+      "id": 12,
       "rating": 4.7,
       "review": 35
     },
@@ -2515,13 +2515,13 @@
       ],
       "category": "sneakers",
       "subCate": "girls",
-      "_p_pid": 13,
+      "id": 13,
       "rating": 4.3,
       "review": 144
     },
     {
       "brand": "7-10",
-      "name": "609 Double Laced M_p_pid Top White Colorblock Sneakers",
+      "name": "609 Double Laced Mid Top White Colorblock Sneakers",
       "newPrice": 3996,
       "oldPrice": 5399,
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/2/tr:w-480,/429134a710609WW_1.jpg?rnd=20200526195200",
@@ -2532,13 +2532,13 @@
       ],
       "category": "sneakers",
       "subCate": "women",
-      "_p_pid": 14,
+      "id": 14,
       "rating": 3.2,
       "review": 346
     },
     {
       "brand": "Shoetopia",
-      "name": "Women Sol_p_pid Tan Sneakers",
+      "name": "Women Solid Tan Sneakers",
       "newPrice": 1000,
       "oldPrice": 1999,
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/0/tr:w-480,/e0722f8NF_SHOET00011377_1.jpg?rnd=20200526195200",
@@ -2548,13 +2548,13 @@
       ],
       "category": "sneakers",
       "subCate": "women",
-      "_p_pid": 15,
+      "id": 15,
       "rating": 4.4,
       "review": 177
     },
     {
       "brand": "Puma",
-      "name": "BMW M Motorsport Drift Cat Delta K_p_pids Sneakers",
+      "name": "BMW M Motorsport Drift Cat Delta Kids Sneakers",
       "newPrice": 2999,
       "oldPrice": 4999,
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/3/tr:w-480,/032d6b8NYK_PUMAX00114581_1.jpg?rnd=20200526195200",
@@ -2565,7 +2565,7 @@
       ],
       "category": "sneakers",
       "subCate": "boys",
-      "_p_pid": 16,
+      "id": 16,
       "rating": 2.2,
       "review": 307
     },
@@ -2582,7 +2582,7 @@
       ],
       "category": "sneakers",
       "subCate": "girls",
-      "_p_pid": 17,
+      "id": 17,
       "rating": 2.1,
       "review": 196
     },
@@ -2599,7 +2599,7 @@
       ],
       "category": "sneakers",
       "subCate": "girls",
-      "_p_pid": 18,
+      "id": 18,
       "rating": 3.2,
       "review": 250
     },
@@ -2615,7 +2615,7 @@
       ],
       "category": "sneakers",
       "subCate": "girls",
-      "_p_pid": 19,
+      "id": 19,
       "rating": 5,
       "review": 62
     },
@@ -2631,7 +2631,7 @@
       ],
       "category": "sneakers",
       "subCate": "girls",
-      "_p_pid": 20,
+      "id": 20,
       "rating": 3.3,
       "review": 59
     },
@@ -2647,7 +2647,7 @@
       ],
       "category": "sneakers",
       "subCate": "girls",
-      "_p_pid": 21,
+      "id": 21,
       "rating": 2.9,
       "review": 341
     },
@@ -2664,7 +2664,7 @@
       ],
       "category": "sneakers",
       "subCate": "boys",
-      "_p_pid": 22,
+      "id": 22,
       "rating": 3.1,
       "review": 136
     },
@@ -2681,7 +2681,7 @@
       ],
       "category": "sneakers",
       "subCate": "women",
-      "_p_pid": 23,
+      "id": 23,
       "rating": 2.9,
       "review": 77
     },
@@ -2698,7 +2698,7 @@
       ],
       "category": "sneakers",
       "subCate": "men",
-      "_p_pid": 24,
+      "id": 24,
       "rating": 3.3,
       "review": 57
     },
@@ -2715,7 +2715,7 @@
       ],
       "category": "sneakers",
       "subCate": "girls",
-      "_p_pid": 25,
+      "id": 25,
       "rating": 2.5,
       "review": 46
     },
@@ -2732,7 +2732,7 @@
       ],
       "category": "sneakers",
       "subCate": "boys",
-      "_p_pid": 26,
+      "id": 26,
       "rating": 4,
       "review": 42
     },
@@ -2749,7 +2749,7 @@
       ],
       "category": "sneakers",
       "subCate": "men",
-      "_p_pid": 27,
+      "id": 27,
       "rating": 4.2,
       "review": 217
     },
@@ -2766,7 +2766,7 @@
       ],
       "category": "sneakers",
       "subCate": "men",
-      "_p_pid": 28,
+      "id": 28,
       "rating": 2,
       "review": 162
     },
@@ -2783,13 +2783,13 @@
       ],
       "category": "sneakers",
       "subCate": "men",
-      "_p_pid": 29,
+      "id": 29,
       "rating": 2.7,
       "review": 67
     },
     {
       "brand": "PUMA",
-      "name": "Racer PS K_p_pid's Blue Sneakers",
+      "name": "Racer PS Kid's Blue Sneakers",
       "newPrice": 1579,
       "oldPrice": 1799,
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/3/2/tr:w-480,/32261e1NJ_PMA13774_1.jpg?rnd=20200526195200",
@@ -2800,13 +2800,13 @@
       ],
       "category": "sneakers",
       "subCate": "boys",
-      "_p_pid": 30,
+      "id": 30,
       "rating": 3.7,
       "review": 166
     },
     {
       "brand": "Zeraya",
-      "name": "306 Strappy Cutaway Chunky White Sol_p_pid Sneakers",
+      "name": "306 Strappy Cutaway Chunky White Solid Sneakers",
       "newPrice": 2700,
       "oldPrice": 5399,
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/8/8/tr:w-480,/888b509710306WW_1.jpg?rnd=20200526195200",
@@ -2817,13 +2817,13 @@
       ],
       "category": "sneakers",
       "subCate": "women",
-      "_p_pid": 31,
+      "id": 31,
       "rating": 2.5,
       "review": 317
     },
     {
       "brand": "Truffle Collection",
-      "name": "White Sol_p_pid Sneakers",
+      "name": "White Solid Sneakers",
       "newPrice": 1750,
       "oldPrice": 2499,
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/b/b/tr:w-480,/bba45f7TC-CAN1-WHT_1.jpg?rnd=20200526195200",
@@ -2834,7 +2834,7 @@
       ],
       "category": "sneakers",
       "subCate": "women",
-      "_p_pid": 32,
+      "id": 32,
       "rating": 3.6,
       "review": 236
     },
@@ -2850,7 +2850,7 @@
       ],
       "category": "sneakers",
       "subCate": "women",
-      "_p_pid": 33,
+      "id": 33,
       "rating": 2,
       "review": 218
     },
@@ -2867,7 +2867,7 @@
       ],
       "category": "sneakers",
       "subCate": "boys",
-      "_p_pid": 34,
+      "id": 34,
       "rating": 2.1,
       "review": 150
     },
@@ -2884,13 +2884,13 @@
       ],
       "category": "sneakers",
       "subCate": "women",
-      "_p_pid": 35,
+      "id": 35,
       "rating": 4.5,
       "review": 297
     },
     {
       "brand": "7-10",
-      "name": "304 Doodle Print Canvas High-Top Beige Sol_p_pid Sneakers",
+      "name": "304 Doodle Print Canvas High-Top Beige Solid Sneakers",
       "newPrice": 4799,
       "oldPrice": 4799,
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/d/tr:w-480,/5d91509710304WY_1.jpg?rnd=20200526195200",
@@ -2901,7 +2901,7 @@
       ],
       "category": "sneakers",
       "subCate": "women",
-      "_p_pid": 36,
+      "id": 36,
       "rating": 4.3,
       "review": 219
     },
@@ -2918,13 +2918,13 @@
       ],
       "category": "sneakers",
       "subCate": "boys",
-      "_p_pid": 37,
+      "id": 37,
       "rating": 4.7,
       "review": 226
     },
     {
       "brand": "Truffle Collection",
-      "name": "Black Sol_p_pid Sneakers",
+      "name": "Black Solid Sneakers",
       "newPrice": 1750,
       "oldPrice": 2499,
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/d/tr:w-480,/ed725f7TC-CAN1-BLK_1.jpg?rnd=20200526195200",
@@ -2935,7 +2935,7 @@
       ],
       "category": "sneakers",
       "subCate": "women",
-      "_p_pid": 38,
+      "id": 38,
       "rating": 4,
       "review": 33
     },
@@ -2952,7 +2952,7 @@
       ],
       "category": "sneakers",
       "subCate": "women",
-      "_p_pid": 39,
+      "id": 39,
       "rating": 2.5,
       "review": 145
     },
@@ -2969,7 +2969,7 @@
       ],
       "category": "sneakers",
       "subCate": "girls",
-      "_p_pid": 40,
+      "id": 40,
       "rating": 3.9,
       "review": 130
     },
@@ -2985,7 +2985,7 @@
       ],
       "category": "sneakers",
       "subCate": "girls",
-      "_p_pid": 41,
+      "id": 41,
       "rating": 2.6,
       "review": 71
     },
@@ -3002,7 +3002,7 @@
       ],
       "category": "sneakers",
       "subCate": "men",
-      "_p_pid": 42,
+      "id": 42,
       "rating": 2.6,
       "review": 229
     },
@@ -3019,7 +3019,7 @@
       ],
       "category": "sneakers",
       "subCate": "girls",
-      "_p_pid": 43,
+      "id": 43,
       "rating": 2.3,
       "review": 178
     },
@@ -3036,7 +3036,7 @@
       ],
       "category": "sneakers",
       "subCate": "men",
-      "_p_pid": 44,
+      "id": 44,
       "rating": 4.2,
       "review": 304
     },
@@ -3052,7 +3052,7 @@
       ],
       "category": "sneakers",
       "subCate": "girls",
-      "_p_pid": 45,
+      "id": 45,
       "rating": 3.3,
       "review": 50
     },
@@ -3069,7 +3069,7 @@
       ],
       "category": "sneakers",
       "subCate": "women",
-      "_p_pid": 46,
+      "id": 46,
       "rating": 2.8,
       "review": 203
     },
@@ -3086,7 +3086,7 @@
       ],
       "category": "sneakers",
       "subCate": "men",
-      "_p_pid": 47,
+      "id": 47,
       "rating": 3.5,
       "review": 136
     },
@@ -3103,7 +3103,7 @@
       ],
       "category": "sneakers",
       "subCate": "women",
-      "_p_pid": 48,
+      "id": 48,
       "rating": 4.5,
       "review": 208
     },
@@ -3120,7 +3120,7 @@
       ],
       "category": "sneakers",
       "subCate": "men",
-      "_p_pid": 49,
+      "id": 49,
       "rating": 2.4,
       "review": 269
     },
@@ -3137,13 +3137,13 @@
       ],
       "category": "sneakers",
       "subCate": "boys",
-      "_p_pid": 50,
+      "id": 50,
       "rating": 4.6,
       "review": 177
     },
     {
       "brand": "PUMA",
-      "name": "BMW M Motorsport R-Cat Machina K_p_pids Sneakers",
+      "name": "BMW M Motorsport R-Cat Machina Kids Sneakers",
       "newPrice": 2749,
       "oldPrice": 4999,
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/8/5/tr:w-480,/85521e1NJ_PUMAX00114583_1.jpg?rnd=20200526195200",
@@ -3154,7 +3154,7 @@
       ],
       "category": "sneakers",
       "subCate": "boys",
-      "_p_pid": 51,
+      "id": 51,
       "rating": 3.8,
       "review": 254
     },
@@ -3171,7 +3171,7 @@
       ],
       "category": "sneakers",
       "subCate": "men",
-      "_p_pid": 52,
+      "id": 52,
       "rating": 2.3,
       "review": 233
     },
@@ -3188,7 +3188,7 @@
       ],
       "category": "sneakers",
       "subCate": "boys",
-      "_p_pid": 53,
+      "id": 53,
       "rating": 2.2,
       "review": 191
     },
@@ -3204,7 +3204,7 @@
       ],
       "category": "sneakers",
       "subCate": "girls",
-      "_p_pid": 54,
+      "id": 54,
       "rating": 2.4,
       "review": 335
     },
@@ -3221,13 +3221,13 @@
       ],
       "category": "sneakers",
       "subCate": "men",
-      "_p_pid": 55,
+      "id": 55,
       "rating": 3.2,
       "review": 45
     },
     {
       "brand": "7-10",
-      "name": "308 PVC Chunky White Sol_p_pid Sneakers",
+      "name": "308 PVC Chunky White Solid Sneakers",
       "newPrice": 3996,
       "oldPrice": 5399,
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/f/tr:w-480,/afb4509710308MW_1.jpg?rnd=20200526195200",
@@ -3238,13 +3238,13 @@
       ],
       "category": "sneakers",
       "subCate": "men",
-      "_p_pid": 56,
+      "id": 56,
       "rating": 2.9,
       "review": 30
     },
     {
       "brand": "PUMA",
-      "name": "Ferrari Motorsport Drift Cat Delta K_p_pids Sneakers",
+      "name": "Ferrari Motorsport Drift Cat Delta Kids Sneakers",
       "newPrice": 2849,
       "oldPrice": 4999,
       "img": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/9/tr:w-480,/996b6b8NYK_PUMAX00114574_1.jpg?rnd=20200526195200",
@@ -3255,7 +3255,7 @@
       ],
       "category": "sneakers",
       "subCate": "boys",
-      "_p_pid": 57,
+      "id": 57,
       "rating": 2.1,
       "review": 301
     },
@@ -3272,7 +3272,7 @@
       ],
       "category": "sneakers",
       "subCate": "women",
-      "_p_pid": 58,
+      "id": 58,
       "rating": 2.4,
       "review": 308
     },
@@ -3289,7 +3289,7 @@
       ],
       "category": "sneakers",
       "subCate": "men",
-      "_p_pid": 59,
+      "id": 59,
       "rating": 4.3,
       "review": 152
     },
@@ -3306,7 +3306,7 @@
       ],
       "category": "sneakers",
       "subCate": "boys",
-      "_p_pid": 60,
+      "id": 60,
       "rating": 3.6,
       "review": 58
     }
